@@ -1,4 +1,5 @@
 module {
+  name    = "storage account"
   source  = "bw-katastream/storage-account/azurerm"
   version = "2.0.0"
 }

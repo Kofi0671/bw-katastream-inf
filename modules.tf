@@ -1,4 +1,4 @@
-module {
+/*module {
   name    = "storage account"
   source  = "bw-katastream/storage-account/azurerm"
   version = "2.0.0"
@@ -15,4 +15,4 @@ inputs {
       access_type = "public"
     },
   ]
-}
+}*/
